@@ -1,0 +1,8 @@
+2024/11/26-17:05:19.884 1685 Reusing MANIFEST /home/Menk1l/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/26-17:05:19.898 1685 Recovering log #4
+2024/11/26-17:05:19.918 1685 Level-0 table #7: started
+2024/11/26-17:05:19.936 1685 Level-0 table #7: 3294815 bytes OK
+2024/11/26-17:05:19.940 1685 Delete type=0 #4
+2024/11/26-17:08:13.743 1686 Level-0 table #10: started
+2024/11/26-17:08:13.753 1686 Level-0 table #10: 856702 bytes OK
+2024/11/26-17:08:13.755 1686 Delete type=0 #8
